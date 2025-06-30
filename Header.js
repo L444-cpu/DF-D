@@ -1,1 +1,2 @@
-// Navigation bar with logo and links
+// Header component
+export default function Header() { return <header>Header</header>; }
